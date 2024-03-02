@@ -20,3 +20,4 @@ Lista de nombres de koders del bootcamp
 16. Diego Villaseñor (diego04101993)
 17. Oscar Solano (ozz2018)
 18. David Flores (streen360)
+19. Isaac Vazquez (ivzc07)
