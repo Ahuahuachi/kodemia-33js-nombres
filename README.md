@@ -2,4 +2,4 @@
 
 Lista de nombres de koders del bootcamp
 
-1. Alfredo Altamirano (Ahuahuachi)
+3. Hugo Lozano Rivera (HugoLozanoSQ9)
