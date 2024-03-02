@@ -17,3 +17,4 @@ Lista de nombres de koders del bootcamp
 13. Xochitl Moreno Flores (Xochitl44)
 14. Hugo Lozano (Hugo LozanoSQ9)
 15. Gloriela Suárez (GloDeMar)
+16. Oscar Solano (ozz2018)
