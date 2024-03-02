@@ -6,4 +6,6 @@ Lista de nombres de koders del bootcamp
 
 
 
-5. Gloriela Suárez (GloDeMar)
+
+
+6. Gloriela Suárez (GloDeMar)
