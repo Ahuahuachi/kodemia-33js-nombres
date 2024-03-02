@@ -25,3 +25,4 @@ Lista de nombres de koders del bootcamp
 21. Maria M (MaryChuyM)
 22. Anuhar Martinez (AnuharMM)
 23. Angel Torres (angelgtorresch)
+24. Luis Felipe Camargo (heroneos)
