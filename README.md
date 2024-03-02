@@ -9,4 +9,6 @@ Lista de nombres de koders del bootcamp
 5. Julio(JULIODEV9B)
 6. Fernando (ferchas98)
 7. Jorge Luis (JorgeLuises)
-8. Brandon (BrandonDevU95)
+8. Luis Medardo (Medardo-cuellar)
+9. Brandon (BrandonDevU95)
+
