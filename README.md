@@ -20,4 +20,8 @@ Lista de nombres de koders del bootcamp
 14. Hugo Lozano (Hugo LozanoSQ9)
 15. Gloriela Suárez (GloDeMar)
 16. Diego Villaseñor (diego04101993)
+<<<<<<< HEAD
 17. Isaac Vazquez (ivzc07)
+=======
+17. Oscar Solno (ozz2018)
+>>>>>>> main
