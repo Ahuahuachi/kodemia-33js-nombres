@@ -13,4 +13,4 @@ Lista de nombres de koders del bootcamp
 9. Jair Araujo (jairekaraujo)
 10. Yair Guadarrama (Yairgg95)
 11. Brandon Vargas (BrandonDevU95)
-12. Hugo Lozano (HugoLozanoSQ9)
+
