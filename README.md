@@ -9,3 +9,4 @@ Lista de nombres de koders del bootcamp
 5. Julio(JULIODEV9B)
 6. Fernando (ferchas98)
 7. Sergio Villa Leon (Sergio Villa Leon)
+7. Jorge Luis (JorgeLuises)
