@@ -24,3 +24,4 @@ Lista de nombres de koders del bootcamp
 20. Roberto (sidrob)
 21. Maria M (MaryChuyM)
 22. Anuhar Martinez (AnuharMM)
+23. Angel Torres (angelgtorresch)
