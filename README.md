@@ -19,4 +19,7 @@ Lista de nombres de koders del bootcamp
 5. Julio(JULIODEV9B)
 6. Fernando (ferchas98)
 7. Jorge Luis (JorgeLuises)
-8. Gloriela Suarez (GloDeMar)
+8. Luis Medardo (Medardo-cuellar)
+9. Jair Araujo (jairekaraujo)
+
+ Gloriela Suarez (GloDeMar)
