@@ -1,5 +1,6 @@
 # kodemia-33js-nombres
+
 Lista de nombres de koders del bootcamp
 
-
-1. Alejandro Torres (aleTorres)
+1. Alfredo Altamirano (Ahuahuachi)
+2. Alejandro Torres (aleTorres)
