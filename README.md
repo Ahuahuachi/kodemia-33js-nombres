@@ -8,3 +8,4 @@ Lista de nombres de koders del bootcamp
 4. Cris Gonzalez (BeCrisU)
 5. Julio(JULIODEV9B)
 6. Fernando (ferchas98)
+7. Angel Torres (angelgtorresch)
