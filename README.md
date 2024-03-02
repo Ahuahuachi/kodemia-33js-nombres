@@ -18,3 +18,4 @@ Lista de nombres de koders del bootcamp
 15. Gloriela Suárez (GloDeMar)
 16. Diego Villaseñor (diego04101993)
 17. Oscar Solano (ozz2018)
+18. David Flores (streen360)
