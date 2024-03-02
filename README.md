@@ -2,16 +2,6 @@
 
 Lista de nombres de koders del bootcamp
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-=======
 1. Alfredo Altamirano (Ahuahuachi)
 2. Akira Tanno (Akiratg)
 3. Alejandro Torres (aleTorres)
@@ -23,4 +13,5 @@ Lista de nombres de koders del bootcamp
 9. Jair Araujo (jairekaraujo)
 10. Yair Guadarrama (Yairgg95)
 11. Brandon Vargas (BrandonDevU95)
-12. Gloriela Suárez (GloDeMar)
+12. Luis Casas (LSCasas)
+13. Gloriela Suárez (GloDeMar)
