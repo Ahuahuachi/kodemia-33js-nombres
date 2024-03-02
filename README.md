@@ -2,4 +2,7 @@
 
 Lista de nombres de koders del bootcamp
 
-3. Hugo Lozano Rivera (HugoLozanoSQ9)
+1. Alfredo Altamirano (Ahuahuachi)
+2. Akira Tanno (Akiratg)
+3. Alejandro Torres (aleTorres)
+4. Hugo Lozano (HugoLozanoSQ9)
